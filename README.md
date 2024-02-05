@@ -5,6 +5,9 @@ Se deben instalar las siguientes librerias
 - Biopython
 - Matplotlib
 - Numpy
+
+Para correr los codigos simplemente tiene que abrir la terminal y escribir:
+python3 (nombre codigo)
   
 Para transformar el formato sdf del dataset Platinum se debe usar el codigo sdftosmi
 
